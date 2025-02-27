@@ -5,13 +5,28 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
+Software enhineering is writing code for computers,building apps and websites to make life easier and to solve real life problems most peope face.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-
+1.The NATO Software Engineering Conference marked the birth of software engineering as a distnct field
+2.The Waterfall Model and the Emergence of Structured Development became a widely accepted software methodology.
+3.The Agile Manifesto and the Rise of Iteractive Development prioritised delivering working software in short cycles, rather than following a rigid, linear development process.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
+1. Planning:
+This is where you figure out what the software needs to do. Like, "What problem will this program solve?" or "What cool things will it let people do?"
+2. Requirements:
+In this phase, you get really specific about what the software will do. You're basically making a detailed list of all the features and functions.
+3. Design:
+Now it's time to draw up the blueprints! This is where you decide how the software will look and work.
+4. Implementation (Coding):
+This is where the actual building happens! Programmers write the code that makes the software work.
+5. Testing:
+Time to check if everything works! Testers look for bugs (errors) and make sure the software does what it's supposed to.
+6. Deployment:
+This is when the software is released to the people who will use it.
+7. Maintenance:
+Even after it's released, software needs to be updated and fixed. This phase is about keeping the software running smoothly.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
